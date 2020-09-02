@@ -42,6 +42,7 @@
 
 <br />
 <br />
+---
 
 ### 📕 Latest Medium Publications
 
@@ -60,19 +61,20 @@
 ➡️ [more medium posts...](https://medium.com/@dulanwirajith)
 
 ---
+📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
+---
 <br>
 <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
 
-
+---
 
 [facebook]: https://www.facebook.com/dulan.wirajith
 [medium]: https://medium.com/@dulanwirajith
