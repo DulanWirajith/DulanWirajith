@@ -62,39 +62,24 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Medium Publications
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Review Analysing Application using NLP — Part 1](https://medium.com/analytics-vidhya/review-analysing-application-using-nlp-part-1-98cb45bf1779)
+- [How Machines Communicate with us?](https://chatbotslife.com/how-machines-communicate-with-us-78d7170c8199)
+- [Brief description about Spring, Spring Boot, and Spring MVC](https://medium.com/@dulanwirajith/brief-description-about-spring-spring-boot-and-spring-mvc-e65ac973dd1e)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more medium posts...](https://medium.com/@dulanwirajith)
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [facebook]: https://www.facebook.com/dulan.wirajith
 [medium]: https://medium.com/@dulanwirajith
