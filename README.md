@@ -1,15 +1,14 @@
-### Hi there, I'm Dulan Wirajith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Dulan Wirajith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-<br>
 
-## I'm a Lover, Learner, Developer, and Content Creator!
+### I'm a Lover, Learner, Developer, and Content Creator!
 
 - 🔭 I’m currently working on a something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain 🤣
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express
+- 💬 Ask me about anything related to Javascript/Typescript/Python/Java or Angular/Node/Express.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Stable my Life
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
@@ -39,6 +38,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br>
+<br>
 
 
 ### 📕 Latest Medium Publications
