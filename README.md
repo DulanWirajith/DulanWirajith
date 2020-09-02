@@ -74,7 +74,7 @@ No Activity tracked this Week
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
 
----
+
 
 [facebook]: https://www.facebook.com/dulan.wirajith
 [medium]: https://medium.com/@dulanwirajith
