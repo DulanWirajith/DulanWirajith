@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on a something cool 😉
 - 🌱 I’m currently learning React, Angular, Node, AI and ML 🤣
 - 💬 Ask me about anything related to Javascript/Typescript/Python/Java or Angular/Node/Express.js
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Stable my Life
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
 - ⚡ Fun fact: I love to speak and play computer games
