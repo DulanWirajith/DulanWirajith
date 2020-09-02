@@ -46,6 +46,9 @@
 ### 📕 Latest Medium Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [Review Analysing Application using NLP — Part 1](https://medium.com/analytics-vidhya/review-analysing-application-using-nlp-part-1-98cb45bf1779?source=rss-c45521f34cc4------2)
+- [How Machines Communicate with us?](https://chatbotslife.com/how-machines-communicate-with-us-78d7170c8199?source=rss-c45521f34cc4------2)
+- [Brief description about Spring, Spring Boot, and Spring MVC](https://medium.com/@dulanwirajith/brief-description-about-spring-spring-boot-and-spring-mvc-e65ac973dd1e?source=rss-c45521f34cc4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
