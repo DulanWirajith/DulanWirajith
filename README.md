@@ -68,7 +68,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 ---
 <br>
-### <summary>:zap: Github Stats</summary>
+<summary> ### :zap: Github Stats</summary>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
 
