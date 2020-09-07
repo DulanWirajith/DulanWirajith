@@ -11,7 +11,7 @@
 - 💬 Ask me about anything related to Javascript/Typescript/Python/Java or Angular/Node/Express.js
 - 🥅 2020 Goals: Stable my Life
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
-- ⚡ Fun fact: I love to speak and play computer games
+- ⚡ Fun fact: I love to listen to everything and reading articles
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
