@@ -62,7 +62,6 @@
 
 ---
 <br>
-Github Stats
 
 <img align="left" alt="DulanWirajith's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
 
