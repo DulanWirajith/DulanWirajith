@@ -62,8 +62,8 @@
 ### My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Dart    17 hrs 3 mins   ████████████████████████▓   98.92 % 
-YAML    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Dart   19 hrs 47 mins  █████████████████████████   99.53 % 
+YAML   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 ---
