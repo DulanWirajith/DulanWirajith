@@ -59,16 +59,6 @@
 ➡️ [more medium posts...](https://medium.com/@dulanwirajith)
 
 ---
-### My Weekly Stats
-<!--START_SECTION:waka-->
-```text
-Dart     22 hrs          ████████████████████████▒   96.78 % 
-YAML     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Groovy   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-XML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-```
-<!--END_SECTION:waka-->
----
 <br>
 
 <img align="left" alt="DulanWirajith's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
