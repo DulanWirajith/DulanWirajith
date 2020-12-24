@@ -6,9 +6,9 @@
 
 ### I'm a Lover, Learner, Developer, and Content Creator!
 
-- 🔭 I’m currently working on a something cool 😉
-- 🌱 I’m currently learning React, Angular, Node and ML
-- 💬 Ask me about anything related to Javascript/Typescript/Python/Java
+- 🔭 I’m currently working as a Full stack developer 😉
+- 🌱 I’m currently learning React, Angular, Node and Flutter
+- 💬 Ask me about anything related to Javascript/ Typescript/ Python or Java
 - 🥅 2020 Goals: Stable my Life
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
