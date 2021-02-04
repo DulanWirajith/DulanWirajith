@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Full stack developer 😉
 - 🌱 I’m currently learning React, Angular, Node and Flutter
 - 💬 Ask me about anything related to Javascript/ Typescript/ Python or Java
-- 🥅 2020 Goals: Stable my Life
+- 🥅 2021 Goals: Stable my Life
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
