@@ -13,19 +13,20 @@
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
+<br />
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
-
 [<img align="left" alt="Dulan Wirajith | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Dulan Wirajith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dulan Wirajith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
+<br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,8 +39,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br>
-<br>
+<br />
+<br />
+
+### My Latest Articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Review Analysing Application using NLP — Part 1](https://medium.com/analytics-vidhya/review-analysing-application-using-nlp-part-1-98cb45bf1779?source=rss-c45521f34cc4------2)
@@ -49,8 +52,10 @@
 
 <!-- ➡️ [more medium posts...](https://medium.com/@dulanwirajith) -->
 
----
-<br>
+<br />
+
+
+### My Github Stats:
 
 <img align="left" alt="DulanWirajith's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
 
