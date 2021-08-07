@@ -87,7 +87,8 @@
 
 ![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=dulanwirajith&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith)
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
