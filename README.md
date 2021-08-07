@@ -15,18 +15,21 @@
 
 <br />
 
+
 ### Connect with me:
-[<img align="left" alt="Dulan Wirajith | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Dulan Wirajith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dulan Wirajith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Dulan Wirajith | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Dulan Wirajith | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webauthn.svg" />][portfolio]
-[<img align="left" alt="Dulan Wirajith | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />][upwork]
+[![Linkedin Badge](https://img.shields.io/badge/-dulanwirajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanwirajith/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14838636/dulanwirajith)](https://stackoverflow.com/users/14838636/dulanwirajith)
+[![Gmail Badge](https://img.shields.io/badge/-dulanwirajith1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dulanwirajith1995@gmail.com)](mailto:dulanwirajith1995@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dulanwirajith) 
+[![Hackerrank](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dulanwirajith)
 
+<!-- [<img align="left" alt="Dulan Wirajith | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
+<!-- [<img align="left" alt="Dulan Wirajith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!-- [<img align="left" alt="Dulan Wirajith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] -->
+<!-- [<img align="left" alt="Dulan Wirajith | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank] -->
+<!-- [<img align="left" alt="Dulan Wirajith | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webauthn.svg" />][portfolio] -->
+<!-- [<img align="left" alt="Dulan Wirajith | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />][upwork] -->
 
-
-<br />
-<br />
 
 ### Languages and Tools:
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -82,8 +85,11 @@
 
 ### My Github Stats:
 
-<img align="left" alt="DulanWirajith's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DulanWirajith&show_icons=true&hide_border=true" />
+![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=dulanwirajith&show_icons=true) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact)
+
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
 
 [facebook]: https://www.facebook.com/dulan.wirajith
