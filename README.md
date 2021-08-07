@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React, Angular, Node and Flutter
 - 💬 Ask me about anything related to Javascript/ Typescript/ Python or Java
 - 🥅 2021 Goals: Stable my Life
-- 📫 How to reach me: [@dulan-wirajith][linkedin]
+- 📫 How to reach me: [dulanwirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
 
@@ -19,7 +19,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14838636/dulanwirajith)](https://stackoverflow.com/users/14838636/dulanwirajith)
 [![Gmail Badge](https://img.shields.io/badge/-dulanwirajith1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dulanwirajith1995@gmail.com)](mailto:dulanwirajith1995@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dulanwirajith) 
-[![Hackerrank](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dulanwirajith)
+<!-- [![Medium Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dulanwirajith) -->
 
 <!-- [<img align="left" alt="Dulan Wirajith | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
 <!-- [<img align="left" alt="Dulan Wirajith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
@@ -42,7 +42,7 @@
 <img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 <img align="left" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" title="Django" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
+<!-- <img align="left" title="Django" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" /> -->
 
 <img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -52,13 +52,15 @@
 
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
 <img align="left" title="Kubernetes" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
-<img align="left" title="Digital Ocean" alt="Digital Ocean" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg" />
 <img align="left" title="Amazon AWS" alt="Amazon AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
+<img align="left" title="Digital Ocean" alt="Digital Ocean" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg" />
 
 <img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" title="Bitbucket" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg" />
+<!-- <img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
+<!-- <img align="left" title="Bitbucket" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg" /> -->
 
+<br />
+<br />
 
 ### My Latest Articles:
 
@@ -73,7 +75,7 @@
 
 ### My Github Stats:
 
-![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=dulanwirajith&show_icons=true) 
+![Dulan's github stats](https://github-readme-stats.vercel.app/api?username=dulanwirajith&show_icons=true) 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith&layout=compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith)
