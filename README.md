@@ -80,8 +80,6 @@
 
 <!-- ➡️ [more medium posts...](https://medium.com/@dulanwirajith) -->
 
-<br />
-
 
 ### My Github Stats:
 
