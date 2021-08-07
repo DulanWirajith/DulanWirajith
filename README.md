@@ -6,13 +6,14 @@
 
 ### I'm a Lover, Learner, Developer, and Content Creator!
 
-- 🔭 I’m currently working as a Full stack developer 😉
+- 🔭 I’m currently working as a Full-Stack Developer  🥷
 - 🌱 I’m currently learning React, Angular, Node and Flutter
 - 💬 Ask me about anything related to Javascript/ Typescript/ Python or Java
 - 🥅 2021 Goals: Stable my Life
 - 📫 How to reach me: [dulanwirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
+<!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px"> -->
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-dulanwirajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanwirajith/)](https://www.linkedin.com/in/krushnat-khavale/)
