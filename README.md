@@ -13,8 +13,6 @@
 - 📫 How to reach me: [@dulan-wirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
 
-<br />
-
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-dulanwirajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanwirajith/)](https://www.linkedin.com/in/krushnat-khavale/)
@@ -29,7 +27,6 @@
 <!-- [<img align="left" alt="Dulan Wirajith | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank] -->
 <!-- [<img align="left" alt="Dulan Wirajith | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webauthn.svg" />][portfolio] -->
 <!-- [<img align="left" alt="Dulan Wirajith | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />][upwork] -->
-
 
 ### Languages and Tools:
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,17 +55,10 @@
 <img align="left" title="Digital Ocean" alt="Digital Ocean" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg" />
 <img align="left" title="Amazon AWS" alt="Amazon AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
 
-
 <img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" title="Bitbucket" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg" />
 
-
-
-
-<br />
-<br />
-<br />
 
 ### My Latest Articles:
 
