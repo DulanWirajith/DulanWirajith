@@ -16,7 +16,7 @@
 <!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px"> -->
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-dulanwirajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanwirajith/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Linkedin Badge](https://img.shields.io/badge/-dulanwirajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanwirajith/)](https://www.linkedin.com/in/dulanwirajith/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14838636/dulanwirajith)](https://stackoverflow.com/users/14838636/dulanwirajith)
 [![Gmail Badge](https://img.shields.io/badge/-dulanwirajith1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dulanwirajith1995@gmail.com)](mailto:dulanwirajith1995@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dulanwirajith) 
