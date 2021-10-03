@@ -66,11 +66,11 @@
 ### My Latest Articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk is cheap. Show me THE CODE](https://enlear.academy/talk-is-cheap-show-me-the-code-6d3fd0fac905?source=rss-c45521f34cc4------2)
 - [ZERO to NERO](https://dulanwirajith.medium.com/zero-to-nero-738a00fe9832?source=rss-c45521f34cc4------2)
 - [ZERO to NERO](https://dulanwirajith.medium.com/zero-to-nero-8d90f5152016?source=rss-c45521f34cc4------2)
 - [Review Analysing Application using NLP — Part 1](https://chatbotslife.com/review-analysing-application-using-nlp-part-1-98cb45bf1779?source=rss-c45521f34cc4------2)
 - [How Machines Communicate with us?](https://chatbotslife.com/how-machines-communicate-with-us-78d7170c8199?source=rss-c45521f34cc4------2)
-- [Brief description about Spring, Spring Boot, and Spring MVC](https://dulanwirajith.medium.com/brief-description-about-spring-spring-boot-and-spring-mvc-e65ac973dd1e?source=rss-c45521f34cc4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more medium posts...](https://medium.com/@dulanwirajith) -->
