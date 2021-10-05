@@ -66,7 +66,7 @@
 ### My Latest Articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Talk is cheap. Show me THE CODE](https://enlear.academy/talk-is-cheap-show-me-the-code-6d3fd0fac905?source=rss-c45521f34cc4------2)
+- [How to Write Clean Code?](https://enlear.academy/talk-is-cheap-show-me-the-code-6d3fd0fac905?source=rss-c45521f34cc4------2)
 - [ZERO to NERO](https://dulanwirajith.medium.com/zero-to-nero-738a00fe9832?source=rss-c45521f34cc4------2)
 - [ZERO to NERO](https://dulanwirajith.medium.com/zero-to-nero-8d90f5152016?source=rss-c45521f34cc4------2)
 - [Review Analysing Application using NLP — Part 1](https://chatbotslife.com/review-analysing-application-using-nlp-part-1-98cb45bf1779?source=rss-c45521f34cc4------2)
