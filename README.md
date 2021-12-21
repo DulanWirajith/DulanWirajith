@@ -83,6 +83,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith&layout=compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulanwirajith)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanwirajith&theme=highcontrast" alt="dulanwirajith" /></p>
+
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
 
