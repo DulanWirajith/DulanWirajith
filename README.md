@@ -14,11 +14,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14838636/dulanwirajith)](https://stackoverflow.com/users/14838636/dulanwirajith)
 [![Gmail Badge](https://img.shields.io/badge/-dulanwirajith1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dulanwirajith1995@gmail.com)](mailto:dulanwirajith1995@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dulanwirajith)
-
 [//]: # ([![Website]&#40;https://img.shields.io/website?label=dulanwirajith.com&style=for-the-badge&url=https%3A%2F%2Fdulanwirajith.com&#41;]&#40;https://dulanwirajith.com&#41;)
 
 ### Languages :
-
 <p align="center">
   <img src="assets\badges\Languages\typescript.svg" alt="ts" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\javascript.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -30,7 +28,6 @@
 </p>
 
 ### Frameworks :
-
 <p align="center">
   <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
   <img src="assets\badges\Frameworks\nestjs.svg" alt="nestjs" style="vertical-align:top; margin:4px">     
@@ -42,7 +39,6 @@
 </p>
 
 ### Tools :
-
 <p align="center">
   <img src="assets\badges\Tools\aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
@@ -56,7 +52,6 @@
 </p>
 
 ### IDE :
-
 <p align="center">
   <img src="assets\badges\IDE\webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
   <img src="assets\badges\IDE\vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
@@ -65,9 +60,7 @@
 </p>
 
 ### My Github Stats :
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanwirajith&theme=highcontrast" alt="dulanwirajith" /></p>
-
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
