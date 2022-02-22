@@ -1,9 +1,5 @@
 ## Hi there, I'm Dulan Wirajith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-
 ### I'm a Lover, Learner, Developer, and Content Creator!
 
 - 🔭 I’m currently working as a Full-Stack Developer  🥷
@@ -19,6 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-dulanwirajith1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dulanwirajith1995@gmail.com)](mailto:dulanwirajith1995@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dulanwirajith)
 
+[//]: # ([![Website]&#40;https://img.shields.io/website?label=dulanwirajith.com&style=for-the-badge&url=https%3A%2F%2Fdulanwirajith.com&#41;]&#40;https://dulanwirajith.com&#41;)
+
 ### Languages :
 
 <p align="center">
@@ -29,7 +27,6 @@
   <img src="assets\badges\Languages\css3.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\sass.svg" alt="sass" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\python.svg" alt="python" style="vertical-align:top; margin:4px">
-
 </p>
 
 ### Frameworks :
@@ -47,7 +44,6 @@
 ### Tools :
 
 <p align="center">
-
   <img src="assets\badges\Tools\aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\docker.svg" alt="docker" style="vertical-align:top; margin:4px">
@@ -62,30 +58,13 @@
 ### IDE :
 
 <p align="center">
-
   <img src="assets\badges\IDE\webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
   <img src="assets\badges\IDE\vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="assets\badges\IDE\androidstudio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
   <img src="assets\badges\IDE\intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-
 </p>
 
-
-[//]: # (### My Latest Articles :)
-
-<!-- BLOG-POST-LIST:START -->
-
-[//]: # (- [How to Write Clean Code?]&#40;https://enlear.academy/talk-is-cheap-show-me-the-code-6d3fd0fac905?source=rss-c45521f34cc4------2&#41;)
-[//]: # (- [ZERO to NERO]&#40;https://dulanwirajith.medium.com/zero-to-nero-738a00fe9832?source=rss-c45521f34cc4------2&#41;)
-[//]: # (- [ZERO to NERO]&#40;https://dulanwirajith.medium.com/zero-to-nero-8d90f5152016?source=rss-c45521f34cc4------2&#41;)
-[//]: # (- [Review Analysing Application using NLP — Part 1]&#40;https://chatbotslife.com/review-analysing-application-using-nlp-part-1-98cb45bf1779?source=rss-c45521f34cc4------2&#41;)
-[//]: # (- [How Machines Communicate with us?]&#40;https://chatbotslife.com/how-machines-communicate-with-us-78d7170c8199?source=rss-c45521f34cc4------2&#41;)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more medium posts...](https://medium.com/@dulanwirajith) -->
-
-
-### My Github Stats:
+### My Github Stats :
 
 <!-- ![Dulan's github stats](https://github-readme-stats.vercel.app/api?username=dulanwirajith&show_icons=true)  -->
 
