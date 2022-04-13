@@ -68,7 +68,7 @@
 
 [facebook]: https://www.facebook.com/dulan.wirajith
 [medium]: https://medium.com/@dulanwirajith
-[linkedin]: https://www.linkedin.com/in/dulan-wirajith
+[linkedin]: https://www.linkedin.com/in/dulanwirajith
 [hackerrank]: https://www.hackerrank.com/dulanwirajith?hr_r=1
 [portfolio]: https://www.dulanwirajith.info
 [upwork]: https://www.upwork.com/o/profiles/users/~010462f3cdf452b722/
