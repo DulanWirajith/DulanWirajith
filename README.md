@@ -4,7 +4,7 @@
   <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+and+App+Developer;5%2B+Years+of+Coding+Experience+;Always+Learning+New+Things;Open+for+Freelancing+Projects&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<img align="right" alt="GIF" src="./assets/coder.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="./assets/coder.gif" width="400" height="250" />
 
 
 ### I'm a Lover, Learner, Developer, and Content Creator!
