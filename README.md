@@ -81,6 +81,9 @@
 
 [![Dulanwirajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=dulanwirajith&theme=github&custom_title=My%20Last%2030%20Days%20Contribution%20Graph&hide_border=true)](https://github.com/dulanwirajith/github-readme-activity-graph)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
 
