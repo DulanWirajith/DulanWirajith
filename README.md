@@ -91,6 +91,7 @@
 [medium]: https://medium.com/@dulanwirajith
 [linkedin]: https://www.linkedin.com/in/dulanwirajith
 [hackerrank]: https://www.hackerrank.com/dulanwirajith?hr_r=1
+[leetcode]: https://leetcode.com/dulanwirajith/
 [portfolio]: https://www.dulanwirajith.com
 [upwork]: https://www.upwork.com/o/profiles/users/~010462f3cdf452b722/
 
