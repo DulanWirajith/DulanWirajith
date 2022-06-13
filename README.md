@@ -28,6 +28,9 @@
 
 [//]: # ([![Website]&#40;https://img.shields.io/website?label=dulanwirajith.com&style=for-the-badge&url=https%3A%2F%2Fdulanwirajith.com&#41;]&#40;https://dulanwirajith.com&#41;)
 
+### My Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=dulanwirajith&theme=onedark&&title=Stars,Followers,Repositories,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### My Streak stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanwirajith&theme=highcontrast" alt="dulanwirajith" /></p>
 
