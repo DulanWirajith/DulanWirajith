@@ -34,6 +34,11 @@
 ### My Streak stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanwirajith&theme=highcontrast" alt="dulanwirajith" /></p>
 
+### Github Profile Summary Card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulanwirajith&theme=github_dark)
+
+
 ### Languages :
 <p>
   <img src="./assets/badges/Languages/typescript.svg" alt="ts" > &emsp;
