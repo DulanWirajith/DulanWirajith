@@ -12,12 +12,13 @@
 
 ### I'm a Lover, Learner, Developer, and Content Creator!
 
-- 🔭 I’m currently working with Nodejs, Nest, Express, React, Graphql, Mongodb, Typescript, etc.  🥷
-- 🌱 I’m currently learning React, Node, Nest and Blockchain
-- 💬 Ask me about anything related to Javascript/ Typescript
-- 🥅 2022 Goals: Stable my Life
+- 🔭 I’m currently working with Node.js, NestJS, Express.js, React, Graphql, MongoDB, TypeScript, etc.  🥷
+- 🌱 I’m currently learning Node.js Security Best Practices, NestJS and Blockchain
+- 💬 Ask me about anything related to JavaScript/ TypeScript
+- 🥅 2023 Goals: Moving forward 
 - 📫 How to reach me: [dulanwirajith][linkedin]
 - ⚡ Fun fact: I love to listen to everything and reading articles
+- 🚴🏽‍♀️ Life Quote: Life is like riding a bicycle, to keep your balance, you must keep moving
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-dulanwirajith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dulanwirajith/)](https://www.linkedin.com/in/dulanwirajith/)
@@ -85,7 +86,7 @@
 
 ### My Github Stats :
 
-[![Dulanwirajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=dulanwirajith&theme=github&custom_title=My%20Last%2030%20Days%20Contribution%20Graph&hide_border=true)](https://github.com/dulanwirajith/github-readme-activity-graph)
+[![Dulanwirajith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dulanwirajith&theme=github&custom_title=My%20Last%2030%20Days%20Contribution%20Graph&hide_border=true)](https://github.com/dulanwirajith/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
