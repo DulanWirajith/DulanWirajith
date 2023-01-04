@@ -10,14 +10,14 @@
 <img align="right" alt="GIF" src="./assets/coder.gif" width="400" height="250" />
 
 
-### I'm a Lover, Learner, Developer, and Content Creator!
+### I'm a Learner, Developer, and a Content Creator!
 
 - 🔭 I’m currently working with Node.js, NestJS, Express.js, React, Graphql, MongoDB, TypeScript, etc.  🥷
 - 🌱 I’m currently learning Node.js Security Best Practices, NestJS and Blockchain
 - 💬 Ask me about anything related to JavaScript/ TypeScript
-- 🥅 2023 Goals: Moving forward 
+- 🥅 2023 Goals: Advancing in the current field 
 - 📫 How to reach me: [dulanwirajith][linkedin]
-- ⚡ Fun fact: I love to listen to everything and reading articles
+- ⚡ Fun fact: I love to listen and read articles
 - 🚴🏽‍♀️ Life Quote: Life is like riding a bicycle, to keep your balance, you must keep moving
 
 ### Connect with me:
