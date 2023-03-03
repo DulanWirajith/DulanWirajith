@@ -52,34 +52,48 @@
   <img src="./assets/badges/Languages/python.svg" alt="python"> &emsp;
 </p>
 
-### Frameworks :
+### Back-End :
 <p>
-  <img src="./assets/badges/Frameworks/nodejs.svg" alt="nodejs"> &emsp;
-  <img src="./assets/badges/Frameworks/nestjs.svg" alt="nestjs"> &emsp;
-  <img src="./assets/badges/Frameworks/react.svg" alt="react"> &emsp;
-  <img src="./assets/badges/Frameworks/angular.svg" alt="angularjs"> &emsp;
-  <img src="./assets/badges/Frameworks/flutter.svg" alt="flutter"> &emsp;
-  <img src="./assets/badges/Frameworks/reactnative.svg" alt="react"> &emsp;
-  <img src="./assets/badges/Frameworks/bootstrap.svg" alt="bootstrap"> &emsp;
+  <img src="./assets/badges/BackEnd/nodejs.svg" alt="nodejs"> &emsp; 
+  <img src="./assets/badges/BackEnd/expressjs.svg" alt="expressjs"> &emsp; 
+  <img src="./assets/badges/BackEnd/nestjs.svg" alt="nestjs"> &emsp; 
+  <img src="./assets/badges/BackEnd/websocket.svg" alt="websocket"> &emsp;  
+  <img src="./assets/badges/BackEnd/microservices.svg" alt="microservices"> &emsp;  
 </p>
 
-### Tools :
+
+### Front-End :
 <p>
-  <img src="./assets/badges/Tools/aws.svg" alt="aws"> &emsp;
-  <img src="./assets/badges/Tools/digitalocean.svg" alt="digitalocean"> &emsp;
-  <img src="./assets/badges/Tools/docker.svg" alt="docker"> &emsp;
-  <img src="./assets/badges/Tools/kubernetes.svg" alt="kubernetes"> &emsp;
-  <img src="./assets/badges/Tools/cicd.svg" alt="cicd"> &emsp;
-  <img src="./assets/badges/Tools/mongodb.svg" alt="mongodb"> &emsp;
-  <img src="./assets/badges/Tools/mysql.svg" alt="mysql"> &emsp;
-  <img src="./assets/badges/Tools/redis.svg" alt="redis"> &emsp;
-<!--   <img src="./assets/badges/Tools/git.svg" alt="git"> &emsp; -->
+  <img src="assets/badges/FrontEnd/react.svg" alt="react"> &emsp;
+  <img src="assets/badges/FrontEnd/angular.svg" alt="angularjs"> &emsp;
+  <img src="assets/badges/FrontEnd/flutter.svg" alt="flutter"> &emsp;
+  <img src="assets/badges/FrontEnd/reactnative.svg" alt="react"> &emsp;
+  <img src="assets/badges/FrontEnd/redux.svg" alt="redux"> &emsp;
+</p>
+
+### Databases :
+<p>
+  <img src="assets/badges/Databases/mongodb.svg" alt="mongodb"> &emsp;
+  <img src="assets/badges/Databases/postgresql.svg" alt="postgresql"> &emsp;
+  <img src="assets/badges/Databases/mysql.svg" alt="mysql"> &emsp;
+  <img src="assets/badges/Databases/redis.svg" alt="redis"> &emsp;
+</p>
+
+
+### DevOps :
+<p>
+  <img src="assets/badges/DevOps/aws.svg" alt="aws"> &emsp;
+  <img src="assets/badges/DevOps/digitalocean.svg" alt="digitalocean"> &emsp;
+  <img src="assets/badges/DevOps/docker.svg" alt="docker"> &emsp;
+  <img src="assets/badges/DevOps/kubernetes.svg" alt="kubernetes"> &emsp;
+  <img src="assets/badges/DevOps/cicd.svg" alt="cicd"> &emsp;
+<!--   <img src="./assets/badges/DevOps/git.svg" alt="git"> &emsp; -->
 </p>
 
 ### IDE :
 <p>
-  <img src="./assets/badges/IDE/webstorm.svg" alt="webstorm"> &emsp;
   <img src="./assets/badges/IDE/intellij.svg" alt="jetbrains_intellij"> &emsp;
+  <img src="./assets/badges/IDE/webstorm.svg" alt="webstorm"> &emsp;
   <img src="./assets/badges/IDE/vscode.svg" alt="vscode"> &emsp;
   <img src="./assets/badges/IDE/androidstudio.svg" alt="androidstudio"> &emsp;
 </p>
